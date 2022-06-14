@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan Api</string>
+    <string name="message">%1$s diklik!</string>
+    <string name="action_switch_layout">Ubah Layout</string>
+    <string name="koneksi_error">Koneksi Error</string>
+</resources>
